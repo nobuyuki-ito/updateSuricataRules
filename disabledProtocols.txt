@@ -1,0 +1,5 @@
+# disabled protocols
+ftp
+# experimental
+nfs
+ntp
